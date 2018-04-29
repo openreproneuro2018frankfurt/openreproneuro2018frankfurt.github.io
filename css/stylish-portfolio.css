@@ -249,7 +249,7 @@ hr.small {
 .location {
     display: table;
     width: 70%;
-    height: 300px;
+    height: 100px;
     color: #000;
     font-family: 'Comfortaa', cursive;
     background: url(../img/mpiLogo.jpg) no-repeat left center scroll;
